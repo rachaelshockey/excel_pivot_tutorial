@@ -16,5 +16,13 @@ This demo covers:
 
 ![](PivotTable_Step1.png)
 
+![](PivotTable_Step2.png)
+
+![](PivotTable_Step3.png)
+
+![](PivotTable_Step4.png)
+
+![](PivotTable_Step5.png)
+
 
 
