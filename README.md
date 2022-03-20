@@ -1,7 +1,7 @@
 # excel_pivot_tutorial
 ## A tutorial for using PivotTable in Excel to aggregate data and create a top 10 list of values 
 
-This tutorial uses a public dataset of dog licenses in Allegheny County, Pennsylvania, which is available to download as a CSV [here](https://data.wprdc.org/dataset/allegheny-county-dog-licenses).
+This tutorial uses a public dataset of dog licenses in Allegheny County, Pennsylvania, which is available to download as a CSV [here](https://data.wprdc.org/dataset/allegheny-county-dog-licenses). The instructions can be used to create a top 10 list of the most frequently occurring dog names in the dataset. 
 
 ### Overview
 
